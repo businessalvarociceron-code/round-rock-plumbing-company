@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://7-y.xyz/round-rock-plumbing-company/sitemap.xml
+Sitemap: https://round-rock-plumbing-company.7-y.xyz/sitemap.xml

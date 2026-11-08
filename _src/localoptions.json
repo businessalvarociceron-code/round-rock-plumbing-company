@@ -364,7 +364,9 @@
   "logo": "assets/logo.png",
   "structure": "beacon",
   "imageSet": "set-2",
-  "verification": [],
+  "verification": [
+    "sM2fqlNZqvHPNPShhoyYweWy_RP56J8r9muXZQMpCAs"
+  ],
   "home": {
     "sub": "We handle plumbing problems in Round Rock homes and buildings, from fixtures that leak to drains that back up.",
     "title": "Plumbing in Round Rock, TX | Round Rock Plumbing Company",
@@ -376,7 +378,8 @@
       "A gurgle under the kitchen sink, a sewer odor near a floor drain, or water around a toilet can prompt a call. So can a cold shower, a dripping pipe, or a slow bathtub.",
       "Work often starts under a bathroom sink or behind a kitchen wall, with a worn fitting, blocked pipe, or loose connection usually involved. We inspect the fixture and pipework, then complete the work. We cover Round Rock, Brushy Creek, Windemere, and Wells Branch.",
       "A water heater may be repaired if a replaceable part is at fault and the tank remains sound. Replacement is more likely if the tank leaks or has corrosion. We tell a customer which path fits before discussing any price."
-    ]
+    ],
+    "servicesLede": "What we are called out for most. Each of the six has its own page — what the work involves, and what changes the price."
   },
   "now": "2026-11-01T04:15:59.432Z"
 }
